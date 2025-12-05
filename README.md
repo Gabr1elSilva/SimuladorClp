@@ -101,15 +101,13 @@ O projeto inclui 3 exemplos funcionais demonstrando:
 
 ## 🎨 Interface do Projeto
 
-*(Insira aqui um print da tela do simulador de vocês)*
-
 ![Interface do Simulador](./docs/simulation_interface.png)
 
 ---
 
 ## ▶️ Demonstração
 
-*(Insira aqui o link para o vídeo do grupo de vocês, caso tenham gravado)*
+- Vídeo de Funcionamento: [https://youtu.be/ITxNPlzTezQ](https://youtu.be/ITxNPlzTezQ)
 
 ---
 
